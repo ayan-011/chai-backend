@@ -1,0 +1,11 @@
+
+<!-- 1. dependencies in package.json
+
+bcrypt --> A library used for hashing passwords securely.
+cloudinary --> A cloud-based service for managing, storing, and optimizing images and videos.
+cookie-parser -->  Useful for managing session cookies and handling user authentication, where cookies are used to store session tokens or other data.
+cors --> CORS allows your web application to make requests to different domains (i.e., your frontend and backend might be on different servers). This is crucial for enabling APIs to be consumed from different origins.
+dotenv --> It's the core framework for building your server-side application, providing routing, middleware, and other web functionality like handling requests and responses.
+jsonwebtoken --> JWTs are commonly used for user authentication and authorization in web applications. They allow the server to create tokens for users that can be used for secure API requests without needing to store session data on the server.
+mongoose --> Mongoose simplifies interactions with MongoDB by providing schema-based solutions for modeling your data. It also helps validate, query, and manage data more easily.
+multer --> Multer simplifies the process of uploading files (like images, PDFs, etc.) from the client to the server, making it easy to manage user uploads. -->
